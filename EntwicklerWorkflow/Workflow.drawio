@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T06:12:30.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="EXLOcejubQSOStliKDI4" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T06:47:39.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ybAl8KcQ14C9zvVn41rK" version="14.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -19,10 +19,10 @@
         <mxCell id="8bIpVgYrZPwHvamh7m1B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NGM2FFOQqWBgE3LcFrRt-34" target="NGM2FFOQqWBgE3LcFrRt-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGM2FFOQqWBgE3LcFrRt-34" value="Code kompilieren" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="NGM2FFOQqWBgE3LcFrRt-34" value="Dashboard Code kompilieren" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="343" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NGM2FFOQqWBgE3LcFrRt-36" value="Binaries deployen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="NGM2FFOQqWBgE3LcFrRt-36" value="Dashboard Binaries deployen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="343" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8bIpVgYrZPwHvamh7m1B-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
